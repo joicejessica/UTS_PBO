@@ -12,11 +12,12 @@
 https://drive.google.com/file/d/0B7jHsUxqFqdMc3FxRmttRlRxcFk/view?usp=sharing <br>
 
 <h1> Gambar </h1>
-<img src="https://cloud.githubusercontent.com/assets/22056134/23949610/7dfd6ea0-09ba-11e7-9d70-99d67f60332e.png" width="850"/> <br> <br>
-<img src="https://cloud.githubusercontent.com/assets/22056134/23949612/7dffc10a-09ba-11e7-8a6b-0f29fbd41927.png" width="850"/> <br> <br>
-<img src="https://cloud.githubusercontent.com/assets/22056134/23949611/7dfda58c-09ba-11e7-928e-f1f6a27825f2.png" width="850"/> <br> <br>
-<img src="https://cloud.githubusercontent.com/assets/22056134/23949608/7df8c8a0-09ba-11e7-9721-12507c9aec74.png" width="850"/> <br> <br>
-<img src="https://cloud.githubusercontent.com/assets/22056134/23949609/7df98592-09ba-11e7-8401-d28463f84e4e.png" width="850"/> <br> <br>
-<img src="https://cloud.githubusercontent.com/assets/22056134/23949613/7e033c4a-09ba-11e7-8700-162188cc8dbf.png" width="850"/> <br> <br>
-<img src="https://cloud.githubusercontent.com/assets/22056134/23949615/7e46d7fc-09ba-11e7-8fb9-0435b2378682.png" width="850"/> <br> <br>
-<img src="https://cloud.githubusercontent.com/assets/22056134/23949616/7e5425e2-09ba-11e7-9df0-d884cdc33a8a.png" width="850"/> <br> <br>
+
+<img src="https://cloud.githubusercontent.com/assets/22056134/24433293/be6e47d8-1451-11e7-8347-9520069c0998.PNG " width="850"/> <br> <br>
+<img src="https://cloud.githubusercontent.com/assets/22056134/24433294/be9fc6be-1451-11e7-8e4c-6e66c3fbf4ae.PNG " width="850"/> <br> <br>
+<img src="https://cloud.githubusercontent.com/assets/22056134/24433295/beb7c44e-1451-11e7-8507-224568a0aae8.PNG " width="850"/> <br> <br>
+<img src="https://cloud.githubusercontent.com/assets/22056134/24433297/bebfd5da-1451-11e7-82a8-730b9dd2fa43.PNG " width="850"/> <br> <br>
+<img src="https://cloud.githubusercontent.com/assets/22056134/24433296/bebf3576-1451-11e7-8cd0-a843cd1d8ab9.PNG " width="850"/> <br> <br>
+<img src="https://cloud.githubusercontent.com/assets/22056134/24433300/bee50da0-1451-11e7-8d2f-2d3304d91b8d.PNG " width="850"/> <br> <br>
+<img src="https://cloud.githubusercontent.com/assets/22056134/24433298/bed62e34-1451-11e7-9e2c-2021d4cb7d56.PNG " width="850"/> <br> <br>
+

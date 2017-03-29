@@ -8,6 +8,9 @@
 <ol> NAMA SEKOLAH : SMK TELKOM MALANG </ol>
 </ol>
 
+<h1> Link SQL </h1>
+https://drive.google.com/file/d/0B7jHsUxqFqdMc3FxRmttRlRxcFk/view?usp=sharing <br>
+
 <h1> Gambar </h1>
 <img src="https://cloud.githubusercontent.com/assets/22056134/23949610/7dfd6ea0-09ba-11e7-9d70-99d67f60332e.png" width="850"/> <br> <br>
 <img src="https://cloud.githubusercontent.com/assets/22056134/23949612/7dffc10a-09ba-11e7-8a6b-0f29fbd41927.png" width="850"/> <br> <br>
